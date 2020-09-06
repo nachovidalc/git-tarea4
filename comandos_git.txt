@@ -1,0 +1,17 @@
+git clone https://github.com/nachovidalc/git-tarea4
+cd git-tarea-4
+nano primero.py
+git add primero.py
+git commit -m "primer archivo python"
+git push
+nano segundo.py
+git add segundo.py
+git commit -m "notas de estudiante python"
+git push
+nano comandos_git.txt
+git add comandos_git.text
+git commit -m "comandos usados en el trabajo"
+git push
+
+
+
